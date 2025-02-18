@@ -1,0 +1,11 @@
+{	"y_label": "Group",
+	"predictors": null,
+	"co_variates": [],
+	"y_dict": {"Not at all / None": 0, "A little": 0, "Quite a bit": 1, "Extremely": 1},
+	"model_type": "LinearRegression",
+	"output_folder": null,
+	"psg_criterion": false,
+	"drop_score_cols": true,
+	"drop_corr_cols": false,
+	"variable_type": "All"
+}
